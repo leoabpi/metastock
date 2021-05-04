@@ -1,0 +1,1 @@
+((H < Ref(H, -1) AND Ref(H, -1) < Ref(H, -2)AND Ref(H, -2) < Ref(H, -3)AND Ref(H, -3) < Ref(H, -4)AND Ref(H, -4) < Ref(H, -5)) OR (Ref(C,-1)<Ref(O,-1)AND Ref(C,-2)<Ref(O,-2)AND Ref(C,-3)<Ref(O,-3)AND Ref(C,-4)<Ref(O,-4)AND Ref(C,-5)<Ref(O,-5))) AND OI > 50 AND V> Mov(V,20,S) AND {Afastamento dos preços > 8% 20MA} (1.08 * C) <= Mov(C, 20, S)
