@@ -1,1 +1,2 @@
 # metastock
+Códigos para Metastock
