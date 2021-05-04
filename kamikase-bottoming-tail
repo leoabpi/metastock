@@ -1,0 +1,1 @@
+L < LLV(Ref(L,-1),20) AND (LongLowerShadow() OR Hammer()) AND V> Mov(V,20,S) AND C < Mov(C,20,S) AND OI > 50
