@@ -1,0 +1,1 @@
+C>O AND O-L<=.2*(H-L) AND H-C<=.2*(H-L) AND (H-L) > (Mov((H-L),20,S))*1.5 AND V>Mov(V,20,S) AND OI>50
